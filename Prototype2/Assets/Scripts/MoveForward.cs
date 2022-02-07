@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+/*
+ * Gerard Lamoureux
+ * Assignment Three
+ * Handles movement
+ */
 public class MoveForward : MonoBehaviour
 {
     public float speed = 40;

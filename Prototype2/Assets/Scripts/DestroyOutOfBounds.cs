@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Gerard Lamoureux
+ * Assignment Three
+ * Handles out of bounds
+ */
+
 public class DestroyOutOfBounds : MonoBehaviour
 {
     public float topBound = 20;

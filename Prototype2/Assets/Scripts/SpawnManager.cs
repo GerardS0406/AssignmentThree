@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Gerard Lamoureux
+ * Assignment Three
+ * Handles Animal Spawns
+ */
+
 public class SpawnManager : MonoBehaviour
 {
     //drag prefabs to spawn into array in inspector

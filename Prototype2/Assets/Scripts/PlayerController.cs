@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Gerard Lamoureux
+ * Assignment Three
+ * Handles player movement
+ */
+
 public class PlayerController : MonoBehaviour
 {
     public float horizontalInput;

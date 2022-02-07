@@ -5,6 +5,12 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+/*
+ * Gerard Lamoureux
+ * Assignment Three
+ * Handles Health System
+ */
+
 public class HealthSystem : MonoBehaviour
 {
     public int health;

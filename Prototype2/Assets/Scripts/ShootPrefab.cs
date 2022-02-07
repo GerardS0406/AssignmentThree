@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Gerard Lamoureux
+ * Assignment Three
+ * Handles food shooter
+ */
+
 public class ShootPrefab : MonoBehaviour
 {
     public GameObject prefabToShoot;

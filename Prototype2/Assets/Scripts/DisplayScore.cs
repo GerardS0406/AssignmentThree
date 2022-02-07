@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/*
+ * Gerard Lamoureux
+ * Assignment Three
+ * Handles score textbox
+ */
+
 public class DisplayScore : MonoBehaviour
 {
     public Text textbox;

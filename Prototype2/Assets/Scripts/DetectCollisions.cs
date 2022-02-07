@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Gerard Lamoureux
+ * Assignment Three
+ * Handles food + animal collision
+ */
+
 //attach to food projectile prefab
 public class DetectCollisions : MonoBehaviour
 {
